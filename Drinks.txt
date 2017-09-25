@@ -4,3 +4,4 @@ COCO-COLA
 SLICE
 FRUIT BEER
 MIRINDA
+mangoshake
